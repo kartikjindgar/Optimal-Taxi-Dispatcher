@@ -19,8 +19,15 @@ This kind of problem is difficult to solve using general supervised learning met
 
 # Results
 Given certain restrictions and assumptions, we are able to effectively train an RL agent that is able to reduce insatiated demand while using fewer number of taxies. 
+
+### Graph 1: Insatiated Demand vs Number of Epochs of Traiing
+
 ![alt text](https://github.com/kartikjindgar/Optimal-Taxi-Dispatcher/blob/main/outputs/InsatiatiedDemand_Jan23.png?raw=true)
 
+
+### Graph 2: Accumulated Rewards vs Number of Epochs of Traiing
+
+![alt text](https://github.com/kartikjindgar/Optimal-Taxi-Dispatcher/blob/main/outputs/InsatiatiedDemand_Jan23.png?raw=true)
 
 # References:
 1. Learn to Earn: Enabling Coordination within a Ride Hailing Fleet - https://arxiv.org/abs/2006.10904
