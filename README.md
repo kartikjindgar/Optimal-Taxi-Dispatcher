@@ -14,3 +14,7 @@ Repository Structure :
 - Outputs Folder: contains the output graphs showing trends of accumulated rewards and % insatiated demand
 - PolicyGradient.ipynb Notebook contains the training and evaluation code for the RL agent
 - data_prep.ipynb Notebook contains code to generate different matrices from the nyc yellow taxi data required for training the RL agent 
+
+
+References:
+1. Learn to Earn: Enabling Coordination within a Ride Hailing Fleet - https://arxiv.org/abs/2006.10904
