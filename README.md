@@ -27,7 +27,7 @@ Given certain restrictions and assumptions, we are able to effectively train an 
 
 ### Graph 2: Accumulated Rewards vs Number of Epochs of Traiing
 
-![alt text](https://github.com/kartikjindgar/Optimal-Taxi-Dispatcher/blob/main/outputs/InsatiatiedDemand_Jan23.png?raw=true)
+![alt text](https://github.com/kartikjindgar/Optimal-Taxi-Dispatcher/blob/main/outputs/scores_jan23.png?raw=true)
 
 # References:
 1. Learn to Earn: Enabling Coordination within a Ride Hailing Fleet - https://arxiv.org/abs/2006.10904
